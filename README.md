@@ -1,0 +1,2 @@
+# git-central-tool
+gitcentraltool
