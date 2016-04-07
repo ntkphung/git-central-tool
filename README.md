@@ -1,2 +1,2 @@
 # git-central-tool
-gitcentraltool
+example
